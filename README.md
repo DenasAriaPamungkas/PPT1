@@ -72,6 +72,6 @@ angkaDec = random.uniform(0, 0.5)
 ```
 Jika sudah memasukan semua syntax diatas dan telah di run, maka kamu akan mendapatkan tampilan seperti gambar yang ada dibawah ini
 
-![Foto Lat2](foto/hasil2.PNG) <br>
+![Foto Lat2](foto/hasil.PNG) <br>
 
 ___________________________________________________________________________________________________
