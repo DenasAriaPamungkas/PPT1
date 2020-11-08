@@ -38,7 +38,8 @@ baris = 10
 kolom = baris
 ```
 Jika sudah memasukan semua syntax diatas dan telah di run, maka kamu akan mendapatkan tampilan seperti gambar yang ada dibawah ini
-![Foto Lat1](foto/hasil.png) <br>
+!![hasil](https://user-images.githubusercontent.com/72905634/98459384-2877b980-214f-11eb-9cf5-71d607088883.png)
+ <br>
 
 ## PRAKTIKUM 1 - LATIHAN 2
 
@@ -72,6 +73,7 @@ angkaDec = random.uniform(0, 0.5)
 ```
 Jika sudah memasukan semua syntax diatas dan telah di run, maka kamu akan mendapatkan tampilan seperti gambar yang ada dibawah ini
 
-![Foto Lat2](foto/hasil2_ppt1.PNG) <br>
+!![hasil2_ppt1](https://user-images.githubusercontent.com/72905634/98459400-5c52df00-214f-11eb-9414-87d42c0e0306.png)
+ <br>
 
 ___________________________________________________________________________________________________
