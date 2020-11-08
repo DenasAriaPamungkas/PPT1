@@ -10,7 +10,7 @@ Jadi pada pertemuan ini saya diberikan beberapa tugas oleh dosen saya yaitu dian
 
 ## PRAKTIKUM 1 - LATIHAN 1
 
-![Latihan 1](foto/hasil.png) <br>
+![Latihan 1](https://user-images.githubusercontent.com/72906579/98334113-bf038800-2034-11eb-84c8-64df89391412.png) <br>
 
 Pada tugas pertama, saya diminta untuk membuat sebuah program pengulangan bertingkat yang nantinya akan menghasilkan output seperti gambat diatas.
 Untuk bisa dapat menghasilkan output tersebut maka saya memasukan syntax:
@@ -38,7 +38,7 @@ baris = 10
 kolom = baris
 ```
 Jika sudah memasukan semua syntax diatas dan telah di run, maka kamu akan mendapatkan tampilan seperti gambar yang ada dibawah ini
-![Foto Lat1](https://user-images.githubusercontent.com/72906579/98335425-80230180-2037-11eb-946c-b5b4be44920f.png) <br>
+![Foto Lat1](foto/hasil.png) <br>
 
 ## PRAKTIKUM 1 - LATIHAN 2
 
